@@ -1,1 +1,6 @@
 Controlo de versoess
+<<<<<<< HEAD
+=======
+git
+OpenUP
+>>>>>>> b85a472ad0a539939ec3772b66a36f48189858de
